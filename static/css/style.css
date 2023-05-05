@@ -123,14 +123,12 @@ html {
   width: 75%;
 }
 .header img{
-  width:100%;
-  min-height: fit-content;
+  width: 100%;
+  height: auto;
 }
 
-.header img .gif{
-  width: 50%;
 
-}
+
 .header__text {
   text-align: center;
 }
