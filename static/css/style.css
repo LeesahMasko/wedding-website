@@ -54,8 +54,24 @@ html {
 
 .gif{
   border: #FAF2DA solid 20px;
+  width: auto;
+  height: auto;
 }
+@media only screen and (max-width: 800px) {
+  .gif{
+    border: #FAF2DA solid 20px;
+    width: auto;
+    height: auto;
 
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    height: 500px;
+  }
+}
 @media only screen and (min-width: 800px) {
 
   .image {
@@ -103,7 +119,18 @@ html {
     height: 75%;
   }
 }
+.header h1{
+  width: 75%;
+}
+.header img{
+  width:100%;
+  min-height: fit-content;
+}
 
+.header img .gif{
+  width: 50%;
+
+}
 .header__text {
   text-align: center;
 }
