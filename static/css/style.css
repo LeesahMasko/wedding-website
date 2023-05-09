@@ -96,7 +96,7 @@ html {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: white;
+  background-color: #2A924F;
   color: var(--cream);
   text-shadow: #2A924F 2px 2px 2px;
   letter-spacing: 2px;
