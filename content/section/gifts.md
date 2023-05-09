@@ -11,7 +11,7 @@ title: "No Gifts Please"
         <p>The greatest joy you can provide, </p>
         <p>is celebrating with us!</p>
         <p>The most happiness you can bring,</p>
-        <p>is having fun with us!</p>
+        <p>is joining us for this time!</p>
     </blockquote>
     <figcaption>-Nick and Lisa</figcaption>
 </figure>

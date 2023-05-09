@@ -384,10 +384,22 @@ html {
 }
 
 @media only screen and (max-width: 800px) {
-  .section {
+  .section.light {
+    align-items: center;
+    
+  }
+
+  .section_heading {
     min-height: 200px;
     padding: 50px 20px;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    
   }
+ 
+
+  
 }
 
 @media only screen and (min-width: 800px) {
@@ -406,6 +418,8 @@ html {
   text-transform: uppercase;
   letter-spacing: 5px;
 }
+
+
 
 .section__subheading {
   font-weight: 400;
