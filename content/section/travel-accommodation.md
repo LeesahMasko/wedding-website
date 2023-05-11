@@ -6,7 +6,7 @@ title: "Travel and Accommodation"
 ---
 
 <div class="trav_container"> 
-<div>
+
 
 ## Address
 
@@ -14,7 +14,7 @@ The Seaside Motel <br>
 42 S Ocean Ave <br>
 Cayucos, CA 93430 
 
-</div>
+
 
 <iframe class="google-map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13001.228251076125!2d-120.9017861!3d35.4471918!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80ed2070b3383cab%3A0xd46e6c4b631783bb!2sSeaside%20Motel!5e0!3m2!1sen!2sus!4v1682957707365!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
