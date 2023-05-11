@@ -108,8 +108,6 @@ html {
   color: var(--cream);
   text-shadow: #2A924F 2px 2px 2px;
   letter-spacing: 2px;
-
-  /* height: 100vh; */
 }
 
 .header-svg {
