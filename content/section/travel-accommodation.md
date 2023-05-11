@@ -1,12 +1,11 @@
 ---
 draft: false
-title: "Travel and Accommodation"
+title: "travel-accommodation"
 
 
 ---
 
 <div class="trav_container"> 
-
 
 ## Address
 
