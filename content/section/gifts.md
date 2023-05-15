@@ -2,7 +2,7 @@
 draft: false
 title: "No Gifts Please"
 ---
-
+<div class="trav_container"> 
 
 <figure>
     <blockquote>
@@ -16,3 +16,4 @@ title: "No Gifts Please"
     <figcaption>-Nick and Lisa</figcaption>
 </figure>
 
+</div>
