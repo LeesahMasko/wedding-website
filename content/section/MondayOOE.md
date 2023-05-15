@@ -34,7 +34,7 @@ Get all gussied up!
 
 ## 5:00pm Ceremony in the Garden
 
-Meet up a few minures before 5pm to get settled.  The ceremony won't be long, but it will be sweet and lovely.
+Meet up a few minutes before 5pm to get settled.  The ceremony won't be long.
 
 ## Right after the Ceremony
 
