@@ -27,6 +27,9 @@ Zipline tour <br>https://www.margarita-adventures.com/
 <br>
 <br>
 Morro Bay <br>https://www.morrobay.org/
+<br>
+<br>
+
 
 ## Return around 4 to get ready for the ceremony
 

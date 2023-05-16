@@ -18,9 +18,10 @@ Chill for a while! Hangout in the garden, walk down to the water, or check out s
 
 ## 5:30 - Dinner at Duckies
 
-Duckies is known for their Fish & Chips and Clam Chowder.  They also have chicken dishes, burgers, salads and veggie buritos.
+Duckies is known for their Fish & Chips and Clam Chowder.  They also have chicken dishes, tacos, burgers, salads and veggie buritos.
 
-[http://www.duckieschowder.com/](http://www.duckieschowder.com/)
+<a href="http://www.duckieschowder.com/menu/" target="menu">Duckies Menu</a> 
+<br>
 
 This will be a dinner where everyone pays for themselves.
 
