@@ -453,8 +453,9 @@ html {
   align-self: center;
 }
 
-.footer p {
-  align-self: right;
+.footer a {
+  align-self: center;
+  padding-bottom: 25px;
 }
 
 .footer a:link,
@@ -540,6 +541,6 @@ blockquote {
 }
 
 figcaption {
-  text-align: right;
+  text-align: center;
   color: var(--light-green)
 }

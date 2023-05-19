@@ -9,3 +9,4 @@ where:
   first: "The Seaside Motel"
   second: "42 S Ocean Ave, Cayucos, CA 93430"
 ---
+ 

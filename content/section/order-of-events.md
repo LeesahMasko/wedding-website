@@ -7,7 +7,7 @@ title: "Order of Events"
 
 Get settled for a bit, then meet up in the garden for a welcome mocktail and grab a couple snacks. 
 
-## 2pm - Group Hike
+## 2:00pm - Group Hike
 
 We will be hiking though the beautiful Harmony Headlands.  The trailhead is an 8-10 minute drive from the motel.  The trail is mostly flat and meanders through a lovely nature preserve to some spectacular vistas of the Pacific Ocean.
 
@@ -16,7 +16,7 @@ We will be hiking though the beautiful Harmony Headlands.  The trailhead is an 8
 Chill for a while! Hangout in the garden, walk down to the water, or check out some nearby shops. 
 
 
-## 5:30 - Dinner at Duckies
+## 5:30pm - Dinner at Duckies
 
 Duckies is known for their Fish & Chips and Clam Chowder.  They also have chicken dishes, tacos, burgers, salads and veggie buritos.
 
