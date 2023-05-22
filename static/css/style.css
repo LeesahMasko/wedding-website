@@ -118,6 +118,8 @@ html {
 @media only screen and (min-width: 800px) {
   .header {
     min-height: fit-content;
+    display: flex;
+    align-items: center;
   }
 
   .header-svg {
@@ -126,7 +128,8 @@ html {
   }
 }
 .header h1{
-  width: 75%;
+  text-align: center;
+  width: 50%;
 }
 .header img{
   width: 100%;
@@ -171,7 +174,7 @@ html {
   z-index: 1;
   height: 80px;
   width: 100%;
-
+ 
   position: fixed;
   display: flex;
   flex-direction: row-reverse;
