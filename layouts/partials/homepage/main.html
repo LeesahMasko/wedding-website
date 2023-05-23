@@ -121,6 +121,14 @@
         </section>
     </section>
 
+    <section id="rsvp" class="section light">
+        {{ $t := .Site.GetPage "/section/rsvp" }}
+        <h1 class="section__heading">{{$t.Params.title}}</h1>
+        <section class="section__md-content">
+            {{ $t.Content }}
+        </section>
+    </section>
+
     <div class="image image5"></div>
 
 
