@@ -36,7 +36,7 @@ html {
 
 
 
-@media only screen and (min-width: 800px) {
+@media only screen and (min-width: 820px) {
   .google-map {
     width: 600;
     height: 450;
@@ -67,7 +67,7 @@ html {
   width: auto;
   height: auto;
 }
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 820) {
   .gif{
     border: #FAF2DA solid 20px;
     width: auto;
@@ -82,23 +82,76 @@ html {
     height: 500px;
   }
 }
+/* Media Queries that should help the Google Form to display nicely */
 
 @media only screen and (max-width: 375px) {
+  .formContainer{
+    max-width: 100%;
+    height: 3500px;
+
+  }
   .formContainer iframe{
     width:100%;
-    height: 2400px;
+    height: 100%;
     align-content: center;
   }
-}
-@media only screen and (max-width: 390px) {
+} 
+
+@media only screen and (max-width: 414px) {
+  .formContainer{
+    max-width: 100%;
+    height: 2600px;
+
+  }
   .formContainer iframe{
     width:100%;
+    height: 100%;
+    align-content: center;
+  }
+}  
+
+ @media only screen and (max-width: 820px) {
+  .formContainer{
+    max-width: 90%;
+    height: 2600px;
+
+  }
+
+  .formContainer iframe{
+    width:100%;
+    height: 100%;
+    align-content: center;
+  }
+}  
+
+
+@media only screen and (max-width: 912px) {
+  .formContainer{
+    max-width: 100%;
     height: 2400px;
+
+  }
+  .formContainer iframe{
+    width:100%;
+    height: 100%;
     align-content: center;
   }
 } 
 
 @media only screen and (min-width: 800px) {
+  .formContainer{
+    max-width: 100%;
+    height: 2200px;
+
+  }
+  .formContainer iframe{
+    width:100%;
+    height: 100%;
+    align-content: center;
+  }
+} 
+/* End of media Queries that should help the Google Form to display nicely */
+@media only screen and (min-width: 820px) {
 
   .image {
     min-height: 200px;
@@ -132,7 +185,7 @@ html {
   height: auto;
 }
 
-@media only screen and (min-width: 800px) {
+@media only screen and (min-width: 820px) {
   .header {
     min-height: fit-content;
     display: flex;
@@ -170,7 +223,7 @@ html {
   font-size: 2rem;
 }
 
-@media only screen and (min-width: 800px) {
+@media only screen and (min-width: 820px) {
   .header__text--light {
     font-size: 2rem;
     margin-bottom: 2rem;
@@ -270,7 +323,7 @@ html {
   align-items: center;
 }
 
-@media only screen and (min-width: 800px) {
+@media only screen and (min-width: 820px) {
   .nav-desktop {
     position: fixed;
     top: 0;
@@ -343,7 +396,7 @@ html {
   cursor: pointer;
 }
 
-@media only screen and (min-width: 800px) {
+@media only screen and (min-width: 820px) {
   .scroll-top__button {
     width: 10%;
     height: 10%;
@@ -380,7 +433,7 @@ html {
   border-bottom: solid 2px var(--dusty-pink);
 }
 
-@media only screen and (min-width: 800px) {
+@media only screen and (min-width: 820px) {
   .section__split {
     flex-direction: row;
   }
@@ -409,7 +462,7 @@ html {
   background-color: var(--light-green);
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 820px) {
   .section.light {
     align-items: center;
     padding-top:30px;
@@ -428,7 +481,7 @@ html {
   
 }
 
-@media only screen and (min-width: 800px) {
+@media only screen and (min-width: 820px) {
   .section {
     min-height: 300px;
     padding: 5% 20%;
@@ -485,7 +538,7 @@ html {
   color: var(--cream);
 }
 
-@media only screen and (min-width: 800px) {
+@media only screen and (min-width: 820px) {
   .footer {
     text-align: right;
     color: var(--cream);
@@ -506,7 +559,7 @@ html {
   text-align: left;
 }
 
-@media only screen and (min-width: 800px) {
+@media only screen and (min-width: 820px) {
   .section__md-content p {
     padding-left: 4rem;
     padding-right: 4rem;
@@ -523,7 +576,7 @@ html {
 
 /* STANDALONE PAGE SPECIFIC */
 
-@media only screen and (min-width: 800px) {
+@media only screen and (min-width: 820px) {
   .standalone {
     padding-top: 100px;
     /* avoid overlap with menu on desktop*/
@@ -554,7 +607,7 @@ blockquote {
   color: var(--light-green)
 }
 
-@media only screen and (min-width: 800px) {
+@media only screen and (min-width: 820px) {
   blockquote {
     width: 75%;
   }
