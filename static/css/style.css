@@ -82,13 +82,16 @@ html {
     height: 500px;
   }
 }
+
+
 /* Media Queries that should help the Google Form to display nicely */
 
 /* iPhoneSE */
 /* @media only screen and (max-width: 375px) {
   .formContainer{
     max-width: 100%;
-    min-height: 3100px;
+    min-height: 1500px;
+    background-color: red;
 
   }
   .formContainer iframe{
@@ -157,10 +160,14 @@ html {
     width: 75%;
     height: 75%;
   }
+
+  .header h1{
+    padding-top: 80px;
+  }
 }
 .header h1{
   text-align: center;
-  width: 50%;
+  width: 70%;
 }
 .header img{
   width: 100%;
