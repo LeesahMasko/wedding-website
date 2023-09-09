@@ -42,7 +42,8 @@ Read a book<br>
 Go for a hike<br>
 <a href="https://goo.gl/maps/QbNNE74AvC27ny2r8" target="MonarchButteryflies">Monarch Butterfly Grove</a><br>
 Take a nap </p>
-<a href="https://goo.gl/maps/B3S2pFj8bZFMzC467" target="MissionSanLuisOpisbo">Mission San Luis Obispo de Tolosa</a><br>
+<p style="text-align: center;">
+<a href="https://goo.gl/maps/B3S2pFj8bZFMzC467" target="MissionSanLuisOpisbo">Mission San Luis Obispo de Tolosa</a><br></p>
 
 
 </p>
