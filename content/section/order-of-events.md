@@ -5,13 +5,13 @@ title: "Order of Events"
 
 ## 1:00pm - Arrive and Check Into Rooms
 
-If you haven’t been able to check-in to your lodging yet, feel free to store any luggage in our room. <br><br> 
+If you haven’t been able to check into your lodging yet, feel free to store any luggage in our room. <br><br> 
 
 Gather in the garden for lunch and a chance to get aquainted with everyone.  We will have all the fixings for sandwiches, chips, drinks and sweets. 
 
 ## 2:00pm - Group Hike
 
-Carpool to the trailhead. <br> <br>(GPS coordinates: 35.478148210379224, -120.99188674201551) <br><br><a href="https://goo.gl/maps/h42Aw1SYJTnBkxgQA" target="trailhead">Trailhead Location</a> <br><br> It's an 8-10 minutes drive up HWY 1. The hike is wonderful and not overly strenuous.  There are benches periodically along the trail as well as bathroom facilities (port-o-potty type) <br><br>
+Carpool to the trailhead. <br> <br><a href="https://goo.gl/maps/h42Aw1SYJTnBkxgQA" target="trailhead">Trailhead Location</a> <br><br> It's an 8-10 minutes drive up HWY 1. The hike is wonderful and not overly strenuous.  There are benches periodically along the trail as well as bathroom facilities (port-o-potty type) <br><br>
 
 
 

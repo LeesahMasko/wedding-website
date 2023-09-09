@@ -13,14 +13,12 @@ Collect your breakfast from room #7 (The West Wind) Expect to find fruit, muffin
 
 
 
-## Morning and : Afternoon options
+## Morning and Afternoon options
 
-Optional tour of Hearst Castle (10am)<br> 
 <br> <p style="text-align: center;">
-#### *If you are joining the group tour, make sure to depart no later than 9:15am, it's a 30 minute drive to <a href="https://hearstcastle.org/" target="HearstCastle">The Castle</a>*  </p>
+#### *If you are joining the 10am group tour of Hearst Castle, make sure to depart no later than 9:15am, it's a 30 minute drive to <a href="https://hearstcastle.org/" target="HearstCastle">The Castle</a>*  </p>
 
 <br><br>
-
 
 We highly recommend stopping to see the <a href="https://elephantseal.org/locations/" target="ElephantSeals">Elephant Seals</a>.  They are close by Hearst Castle. Stop by before of after the 10am tour.
 <br><br>
@@ -38,9 +36,14 @@ Walk through the cute shops in <a href="https://www.morrobay.org/" target="morro
 <a href="https://www.slocal.com/blog/post/wind-your-way-along-slo-cals-antique-trail/" target="Antiques">Antique Shops</a><br>
 Go see Morro Rock in <a href="https://www.morrobay.org/" target="morroBay">Morro Bay</a><br>
 Sit on the beach, build a sandcastle<br>
+<a href="https://goo.gl/maps/xZhXBkP79448Z6RG7" target="Golf">Golf in Morro Bay</a><br>
 Read a book<br>
+<a href="https://www.avilavalleybarn.com/" target="AvilaValleyBarn">Avila Valley Barn</a><br>
 Go for a hike<br>
+<a href="https://goo.gl/maps/QbNNE74AvC27ny2r8" target="MonarchButteryflies">Monarch Butterfly Grove</a><br>
 Take a nap </p>
+<a href="https://goo.gl/maps/B3S2pFj8bZFMzC467" target="MissionSanLuisOpisbo">Mission San Luis Obispo de Tolosa</a><br>
+
 
 </p>
 <br>
