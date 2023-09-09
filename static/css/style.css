@@ -376,6 +376,7 @@ html {
 
 .section {
   width: 100%;
+  
 }
 
 .section__svg {
@@ -388,18 +389,23 @@ html {
 .section__split {
   display: flex;
   flex-direction: column;
+  
 }
 
 .section__split div {
   width: 100%;
   padding: 50px 10px;
-  text-align: center;
-}
+ }
 
 .section__split div:nth-child(1) {
   border-right: none;
   border-bottom: solid 2px var(--dusty-pink);
+  
 }
+
+/* .MondayColumn {
+  align-items: center;
+} */
 
 @media only screen and (min-width: 820px) {
   .section__split {
@@ -442,8 +448,9 @@ html {
     min-height: 200px;
     padding: 50px 20px;
     display: block;
-    margin-left: auto;
-    margin-right:auto;
+    
+    /* margin-left: auto;
+    margin-right:auto; */
     
   }
   

@@ -5,11 +5,17 @@ title: "Order of Events"
 
 ## 1:00pm - Arrive and Check Into Rooms
 
-Get settled for a bit, then meet up in the garden for a welcome mocktail and grab a couple snacks. 
+If you haven’t been able to check-in to your lodging yet, feel free to store any luggage in our room. <br><br> 
+
+Gather in the garden for lunch and a chance to get aquainted with everyone.  We will have all the fixings for sandwiches, chips, drinks and sweets. 
 
 ## 2:00pm - Group Hike
 
-We will be hiking though the beautiful Harmony Headlands.  The trailhead is an 8-10 minute drive from the motel.  The trail is mostly flat and meanders through a lovely nature preserve to some spectacular vistas of the Pacific Ocean.
+Carpool to the trailhead. <br> <br>(GPS coordinates: 35.478148210379224, -120.99188674201551) <br><br><a href="https://goo.gl/maps/h42Aw1SYJTnBkxgQA" target="trailhead">Trailhead Location</a> <br><br> It's an 8-10 minutes drive up HWY 1. The hike is wonderful and not overly strenuous.  There are benches periodically along the trail as well as bathroom facilities (port-o-potty type) <br><br>
+
+
+
+If you aren’t joining the group hike, feel free to lounge about in the garden area, walk down toward the pier, visit the antique shops in town, take a nap, read a book… just enjoy your down time. 
 
 ## 4:00pm - Return to the Motel
 
@@ -25,8 +31,8 @@ Duckies is known for their Fish & Chips and Clam Chowder.  They also have chicke
 
 This will be a dinner where everyone pays for themselves.
 
-## Post-dinner
+## Campfire on the beach
 
-Enjoy your evening in any way you'd like.  We will have hot chocolate, herbal tea and snacks to enjoy.
+We will have everything to make s'mores.  Beach blankets and a few chairs will be available. <br> <br>Come for a quick stop, or stay for a while. 
 
 
