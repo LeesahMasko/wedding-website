@@ -474,9 +474,10 @@ html {
 }
 
 .section__subheading {
-  font-weight: 400;
+  font-weight: 1000;
   font-style: italic;
   margin-bottom: 1rem;
+  text-align: center;
 }
 
 .section__text--bold {
