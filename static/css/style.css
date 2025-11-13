@@ -47,7 +47,7 @@ html {
 :root {
   --main-font: 'Noto Sans', sans-serif;
 
-  --cream: #FAF2DA;
+  --white: #fdfdfd;
   --light-green: #8E9775;
   --dark-green: #4A503D;
   --dusty-pink: #2A924F;
@@ -139,7 +139,7 @@ html {
   justify-content: center;
   align-items: center;
   background-color: #2A924F;
-  color: var(--cream);
+  color: var(--white);
   text-shadow: #2A924F 2px 2px 2px;
   letter-spacing: 2px;
 }
@@ -235,7 +235,7 @@ html {
 .nav-mobile__burger {
   width: 50px;
   height: 6px;
-  background: var(--cream);
+  background: var(--white);
   border-radius: 5px;
   transition: all .5s ease-in-out;
 }
@@ -246,7 +246,7 @@ html {
   position: absolute;
   width: 50px;
   height: 6px;
-  background: var(--cream);
+  background: var(--white);
   border-radius: 5px;
   transition: all .5s ease-in-out;
 }
@@ -318,7 +318,7 @@ html {
   font-size: 1.5rem;
   font-weight: bolder;
   margin-bottom: 1.5rem;
-  color: var(--cream);
+  color: var(--white);
   font-style: italic;
   text-align: center;
   text-transform: uppercase;
@@ -339,7 +339,7 @@ html {
   padding: 0 0.5rem;
   width: -webkit-fill-available;
 
-  color: var(--cream);
+  color: var(--white);
   text-decoration: none;
 }
 
@@ -426,13 +426,13 @@ html {
 
 .section.light {
   color: var(--dark-green);
-  background-color: var(--cream);
+  background-color: var(--white);
 }
 
 .section.dark {
   width: 100%;
   min-height: 200px;
-  color: var(--cream);
+  color: var(--white);
   background-color: var(--light-green);
 }
 
@@ -492,7 +492,7 @@ html {
   display: flex;
   flex-direction: column;
   text-align: center;
-  color: var(--cream);
+  color: var(--white);
   font-size: 75%;
 }
 
@@ -511,13 +511,13 @@ html {
 .footer a:visited,
 .footer a:hover,
 .footer a:active {
-  color: var(--cream);
+  color: var(--white);
 }
 
 @media only screen and (min-width: 820px) {
   .footer {
     text-align: right;
-    color: var(--cream);
+    color: var(--white);
     font-size: inherit;
   }
 
